@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#cccwr.ccc-dark .ccc-outer{
+ width:980px;
+}
+div#cccwr #ccc-icon button{
+ display:none;
+}
+.ccc-expand, .ccc-outer{ border-radius:5px !important}
+.ccc-expand, .ccc-close, .ccc-inner h2{
+ background-image:none !important;
+ width:150px !important;
+}
+.ccc-inner{
+ border-radius:5px 5px 5px 5px;
+}
+.ccc-inner h2{
+ padding-left:10px !important;
+}
+.ccc-widget{
+ position:relative !important;
+ left:0px!important;
+ top:5px !important;
+}
+#ccc-state{
+ width:980px;
+ /* position:absolute; */
+ margin:0 auto !important}
+#cccwr{
+ width: 100%;
+ /* position:relative; */
+ margin:0px auto;
+ /* background-color: rgba(20,20,20,0.9); */
+}
